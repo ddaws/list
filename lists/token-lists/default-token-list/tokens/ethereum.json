@@ -212,7 +212,7 @@
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x98A878b1Cd98131B271883B390f68D2c90674665.jpg",
-    "name": "Apyx USD",
+    "name": "apxUSD",
     "symbol": "apxUSD"
   },
   {
@@ -220,7 +220,7 @@
     "chainId": 1,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/network/ethereum/0x38EEb52F0771140d10c4E9A9a72349A329Fe8a6A.jpg",
-    "name": "Apyx Yield USD",
+    "name": "apyUSD",
     "symbol": "apyUSD"
   },
   {
